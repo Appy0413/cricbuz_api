@@ -1,1 +1,5 @@
-this is a readme file
+This project creates an API for a cricket match platform with role-based access control, 
+allowing guests to view match details and admins to manage match data
+This API supports a platform similar to Cricbuzz, 
+where guest users can browse matches and see their details, 
+while admins can perform operations such as adding matches, players, updating stats, and scores.
